@@ -61,11 +61,12 @@ html, body {
 /* Medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) {
     #estamos-trabalhando {
-        width: 60vw;
+        width: 70vw;
     }
 
     #bio {
-        width: 53vw;
+        width: 62vw;
+        left: 7vw;
     }
 }
 
